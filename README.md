@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Stanlay HOUNNOUVI</h1>
 <h3 align="center">A fullstack developper !</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stilisky&label=Profile%20views&color=0e75b6&style=flat" alt="Stilisky" /> </p>
 <!--
 **Stilisky/Stilisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
